@@ -11,6 +11,7 @@ Building AI automation tools for real-world operations. Creator of the **jp-seri
 | プロジェクト | 説明 | 状態 |
 |---|---|---|
 | [jp-dates-mcp-server](https://github.com/h-kazuki-pixel/jp-dates-mcp-server) | 日本の祝日・和暦・日付情報をClaudeに提供するMCPサーバー。APIキー不要・完全オフライン | ✅ v1.0.0 |
+| [release-announcer-mcp](https://github.com/h-kazuki-pixel/release-announcer-mcp) | GitHubリポジトリから告知文一式(X・Reddit・awesomeリスト・MCPディレクトリ)と公開前チェックリストを生成するMCPサーバー。APIキー不要・下書きのみ生成 | ✅ v1.0.0 |
 | jp-business-days | 営業日計算MCP(5営業日後は?を即答) | 🔜 開発中 |
 
 *3日に1つのペースで新しいツールを公開しています → Follow して更新をチェック!*
