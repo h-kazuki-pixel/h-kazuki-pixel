@@ -1,6 +1,7 @@
 👋 Kazu / h-kazuki-pixel
 
-無人スペース運営者 × AI自動化 — 実店舗の運営をAIで省人化している実践者です。 現場で使って効果のあった自動化ツールを、汎用化してOSSとして公開しています。
+無人スペース運営者 × AI自動化 — 実店舗の運営をAIで省人化しています。
+現場で使って効果のあった自動化ツールを、汎用化してOSSとして公開しています。
 
 Building AI automation tools for real-world operations. Creator of the jp-series — MCP servers that make Claude fluent in Japanese dates, holidays, and business customs.
 
